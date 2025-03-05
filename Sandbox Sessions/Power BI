@@ -1,1 +1,12 @@
+# Navigate to your repository (if not already there)
+cd /path/to/your/repository
+
+# Create a new folder for PDFs
+mkdir Power BI
+
+# Commit the changes with a message
+git commit -m "Created Folder"
+
+# Push the changes to GitHub
+git push origin main  # Change 'main' to the correct branch if needed
 
